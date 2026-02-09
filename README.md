@@ -1,0 +1,4 @@
+Designing Multivariate Patterns
+This repository contains the implementation of Experiment 3 – Designing Multivariate Patterns** using the R programming language. The objective of this experiment is to explore and understand relationships among multiple variables through effective multivariate visualization techniques.
+The project uses a real healthcare dataset consisting of attributes such as Age, BMI, Blood Pressure, and Glucose Level. A scatter plot matrix is generated to visualize pairwise relationships between these variables. Color encoding is applied to different age groups to help identify patterns and correlations across populations.
+This experiment demonstrates how multivariate visualization supports data analysis in healthcare and AI applications by revealing trends, correlations, and potential risk indicators that are difficult to observe using univariate or bivariate analysis alone.
